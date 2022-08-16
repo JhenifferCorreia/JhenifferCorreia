@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<iframe src="https://giphy.com/embed/4mXjpVNJAFlvi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/windows-microsoft-4mXjpVNJAFlvi">via GIPHY</a></p>
 </div>  
   
 
