@@ -49,6 +49,3 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lql1dv3goytcm8uaa3tw5xvhr&cover_image=true&theme=default&bar_color=479c40" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
