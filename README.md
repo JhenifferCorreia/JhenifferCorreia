@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">"You can live wherever you want to live. Be whoever you want to be. You have time.";</div>  
+### <div align="center">"You can live wherever you want to live. Be whoever you want to be. You have time."</div>  
   
 
 <br/>  
