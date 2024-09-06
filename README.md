@@ -1,6 +1,5 @@
 <div align="center">
-<!-- <img src="https://media0.giphy.com/media/d1RHCgU1HPpv1KK4Ud/giphy.gif?cid=ecf05e477dtont6k8m0gvbi28wm75yu1quwx9fko8nueux28&rid=giphy.gif&ct=g" alt="thirteen doctor from doctor who saying "this is my tardis"" /> -->
-<script src="http://www.qqpr.com/ascii/js/1003.js" ></script>
+  <img src="https://media0.giphy.com/media/d1RHCgU1HPpv1KK4Ud/giphy.gif?cid=ecf05e477dtont6k8m0gvbi28wm75yu1quwx9fko8nueux28&rid=giphy.gif&ct=g" alt="thirteen doctor from doctor who saying "this is my tardis"" />
 </div>  
   
 
@@ -47,3 +46,6 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lql1dv3goytcm8uaa3tw5xvhr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 <br />
+
+<script src="http://www.qqpr.com/ascii/js/1003.js" ></script>
+
