@@ -43,5 +43,5 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lql1dv3goytcm8uaa3tw5xvhr&cover_image=true&theme=default&bar_color=479c40" /></div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lql1dv3goytcm8uaa3tw5xvhr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br />
