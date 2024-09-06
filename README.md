@@ -47,5 +47,3 @@
 </div>
 <br />
 
-<script src="http://www.qqpr.com/ascii/js/1003.js" ></script>
-
